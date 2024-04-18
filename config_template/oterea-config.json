@@ -187,7 +187,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "DE|De|de|德国|German"
+                        "德国|German"
                     ]
                 }
             ]
@@ -246,7 +246,7 @@
                 }
             ]
         },
-                {
+        {
             "tag": "Japan",
             "type": "urltest",
             "outbounds":
@@ -264,7 +264,7 @@
                 }
             ]
         },
-                {
+        {
             "tag": "Russia",
             "type": "urltest",
             "outbounds":
@@ -318,7 +318,7 @@
                 }
             ]
         },
-                {
+        {
             "tag": "UnitedKingdom",
             "type": "selector",
             "outbounds":

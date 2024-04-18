@@ -277,7 +277,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "RU|ru||俄罗斯|Russia"
+                        "RU|Ru|ru||俄罗斯|Russia"
                     ]
                 }
             ]
@@ -313,7 +313,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "KO|Ko|ko|韩国|SouthKorea"
+                        "KO|Ko|ko|韩国|South Korea"
                     ]
                 }
             ]
@@ -331,7 +331,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "UK|Uk|uk|英国|UnitedKingdom"
+                        "UK|Uk|uk|英国|United Kingdom"
                     ]
                 }
             ]

@@ -133,7 +133,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "AU|Au|au|澳大利亚|Australia"
+                        "澳大利亚|Australia"
                     ]
                 }
             ]
@@ -151,7 +151,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "CA|Ca|ca|加拿大|Canada"
+                        "加拿大|Canada"
                     ]
                 }
             ]
@@ -169,7 +169,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "FR|Fr|fr|法国|French"
+                        "法国|French"
                     ]
                 }
             ]
@@ -205,7 +205,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "HK|hk|香港|港|HongKong"
+                        "香港|HongKong"
                     ]
                 }
             ]
@@ -241,7 +241,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "TW|tw|台湾|臺灣|台|Taiwan"
+                        "台湾|Taiwan"
                     ]
                 }
             ]
@@ -259,7 +259,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "JP|jp|日本|日|Japan"
+                        "日本|Japan"
                     ]
                 }
             ]
@@ -277,7 +277,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "RU|Ru|ru||俄罗斯|Russia"
+                        "俄罗斯|Russia"
                     ]
                 }
             ]
@@ -295,7 +295,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "SG|Sg|sg|新加坡|狮|Singapore"
+                        "新加坡|Singapore"
                     ]
                 }
             ]
@@ -313,7 +313,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "KO|Ko|ko|韩国|South Korea"
+                        "韩国|South Korea"
                     ]
                 }
             ]
@@ -331,7 +331,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "UK|Uk|uk|英国|United Kingdom"
+                        "英国|United Kingdom"
                     ]
                 }
             ]
@@ -349,7 +349,7 @@
                     "action": "include",
                     "keywords":
                     [
-                        "US|us|Us|美国|美|United States"
+                        "美国|United States"
                     ]
                 }
             ]

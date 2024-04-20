@@ -451,6 +451,27 @@
     [
         {
             "tag": "proxy",
+            "type": "selector",
+            "outbounds":
+            [
+                "auto",
+                "Australia",
+                "Canada",
+                "French",
+                "German",
+                "HongKong",
+                "India",
+                "TaiWan",
+                "Japan",
+                "Russia",
+                "Singapore",
+                "SouthKorea",
+                "United Kingdom",
+                "America"
+            ]
+        },
+        {
+            "tag": "auto",
             "type": "urltest",
             "outbounds":
             [

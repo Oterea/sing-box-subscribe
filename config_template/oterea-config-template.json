@@ -58,7 +58,6 @@
             "inet4_address": "172.19.0.1/30",
             "mtu": 9000,
             "auto_route": true,
-            "strict_route": false,
             "sniff": true,
             "endpoint_independent_nat": false,
             "stack": "system",
@@ -475,19 +474,17 @@
             "type": "urltest",
             "outbounds":
             [
-                "Australia",
-                "Canada",
-                "French",
-                "German",
-                "HongKong",
-                "India",
-                "TaiWan",
-                "Japan",
-                "Russia",
-                "Singapore",
-                "SouthKorea",
-                "United Kingdom",
-                "America"
+                "{all}"
+            ],
+            "filter":
+            [
+                {
+                    "action": "exclude",
+                    "keywords":
+                    [
+                        "1"
+                    ]
+                }
             ]
         },
         {

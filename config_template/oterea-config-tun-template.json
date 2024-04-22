@@ -447,9 +447,10 @@
     [
         {
             "tag": "proxy",
-            "type": "urltest",
+            "type": "selector",
             "outbounds":
             [
+                "auto",
                 "Australia",
                 "Canada",
                 "French",
@@ -463,6 +464,14 @@
                 "SouthKorea",
                 "United Kingdom",
                 "America"
+            ]
+        },
+        {
+            "tag": "auto",
+            "type": "urltest",
+            "outbounds":
+            [
+                "{all}"
             ]
         },
         {

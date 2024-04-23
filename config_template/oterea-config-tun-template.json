@@ -45,11 +45,11 @@
             },
             {
                 "clash_mode": "direct",
-                "server": "local"
+                "server": "local_dns"
             },
             {
                 "clash_mode": "global",
-                "server": "remote"
+                "server": "proxy_dns"
             }
         ],
         "final": "local_dns",
